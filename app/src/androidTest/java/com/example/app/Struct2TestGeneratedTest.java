@@ -1,4 +1,4 @@
-package app.varlorg.unote;
+package com.example.app;
 
 import androidx.test.ext.junit.runners.AndroidJUnit4;
 import androidx.test.filters.LargeTest;
