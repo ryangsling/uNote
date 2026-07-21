@@ -9,6 +9,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 
 import app.varlorg.unote.NoteMain;
+import app.varlorg.unote.R;
 
 import static androidx.test.espresso.Espresso.onView;
 import static androidx.test.espresso.action.ViewActions.click;
